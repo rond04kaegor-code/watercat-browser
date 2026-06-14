@@ -20,6 +20,7 @@ watercat
 или же сделайте команду
 
 # Создать ярлык на рабочем столе
+```
 cat > ~/Рабочий\ стол/watercat.desktop << EOF
 [Desktop Entry]
 Name=🐱 WaterCat Browser
@@ -31,6 +32,7 @@ Icon=web-browser
 EOF
 
 chmod +x ~/Рабочий\ стол/watercat.desktop
+```
 
 Лицензия
 
